@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/css/all.css" >
     <link rel="stylesheet" href="/css/steyle.css">
 
-    <title>Hello, world!</title>
+    <title><?= $title; ?></title>
   </head>
   <body>
     <!-- This snippet uses Font Awesome 5 Free as a dependency. You can download it at fontawesome.io! -->

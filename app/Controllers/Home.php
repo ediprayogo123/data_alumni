@@ -4,7 +4,7 @@ class Home extends BaseController
 {
 	public function index()
 	{
-		return view('login');
+		return view('peges/home');
 	}
 	public function table(){
 		return view("table");
